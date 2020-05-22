@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.exe
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.deps.json
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.dll
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\bin\Debug\netcoreapp3.1\PrimeiroPooAtividade.pdb
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.dll
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.pdb
+C:\Users\saman\OneDrive\Documentos\PrimeiroPooAtividade\obj\Debug\netcoreapp3.1\PrimeiroPooAtividade.genruntimeconfig.cache
